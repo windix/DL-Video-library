@@ -1,0 +1,26 @@
+
+Synopsis
+--------
+Command line interface for DL-Video (http://en.dl-video.net)
+
+
+Usage
+-----
+ruby dl-video.rb <video_url> [<option>]
+
+Option:
+
+  -c Download via curl (default)
+  -m Manual download via curl (generate curl script)
+  -r Download directly via ruby
+
+
+Author
+------
+Windix Feng, windix@gmail.com
+
+
+Copyright
+---------
+GPL
+
