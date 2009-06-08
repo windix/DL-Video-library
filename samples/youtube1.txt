@@ -1,0 +1,247 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html>
+<head>
+<title>DL-Video - Download videos from YouTube, Dailymotion, etc</title>
+<meta name="description" content="Download video and save videos directly from Youtube, Google Video and more." />
+<meta name="keywords" content="youtube,dailymotion,google,flv,flash,download,video,save" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta http-equiv="content-style-type" content="text/css" />
+<link href="./style.css" type="text/css" rel="stylesheet" />
+<script language="JavaScript" type="text/javascript" src="./js.js"></script>
+</head>
+<body>
+<script type="text/javascript"><!--
+var ID="100595086-TOP";
+var AD=0;
+var FRAME=0;
+// --></script>
+<script src="http://j1.ax.xrea.com/l.j?id=100595086" type="text/javascript"></script>
+
+<noscript>
+<a href="http://w1.ax.xrea.com/c.f?id=100595086" target="_blank"><img src="http://w1.ax.xrea.com/l.f?id=100595086&url=X" alt="AX" border="0"></a>
+</noscript>
+<div id="baseBlock">
+  <div id="topTitle">
+  <h1><a href="http://en.dl-video.net/"><img alt="DL-VIDEO.net" src="http://www.dl-video.net/img/titleLogo2.gif" width="200" height="50"></a></h1>
+  </div>
+<!--Contents-->
+<div id="contents">
+  <!--headContents-->
+  <div id="headContents">
+
+  </div>
+
+  <!--/headContents-->
+    <div id="mainContents">
+      <!--mainContents-->
+          <div class="mainBody">
+
+      <div style="margin:20px 0;padding:0;">
+        Copy and paste the video url to the textbox above, and click [GET LINK]. <br />
+        Download and save videos directly from <strong>Youtube</strong>, <strong>Dailymotion</strong>, <strong>Veoh</strong> and more.
+      </div>
+
+      <form method="post" name="urlform" action="./" id="urlform">
+      <input type="text" name="sdurl" size="50" value="" style="width: 350px; margin:10px auto 5px auto; padding:0px;">
+      <input type="hidden" name="sm" id="sm" value="1" >
+      <input type="hidden" name="x" id="x" value="QFtoAXCMlQU" >
+      <input type="submit" value="GET LINK" style="width: 70px; margin:10px auto 5px auto; padding:0px;"><br>
+      <span class="exurl">e.g.) http://youtube.com/watch?v=xxxxxxxxxxx</span>
+      </form>
+      
+      <div class="durl"><a href=http://www.youtube.com/watch?v=RfwGMat58Bw target="_blank">http://www.youtube.com/watch?v=RfwGMat58Bw</a></div>
+
+    <div style="width:340px; float : left; padding: 5px 0px;"><div class="dtitle"><b>锵锵三人行2009年06月03日C:宋晓军--韩国底子黑让朝鲜理直气壮</b></div><div class="dlink"><a href="http://v18.lscache1.googlevideo.com/videoplayback?ip=0.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag&itag=18&ipbits=0&sver=3&expire=1244113200&key=yt1&signature=24D52866B712849F7FABD9385BAEFE2F242D7A75.931F1A17D37B3BCFBF03675EF90B72B53F4A31EF&id=45fc0631ab79f01c" onClick="return AccNoRefLink(this)"><img src="./img/dl.gif" alt="http://v18.lscache1.googlevideo.com/videoplayback?ip=0.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag&itag=18&ipbits=0&sver=3&expire=1244113200&key=yt1&signature=24D52866B712849F7FABD9385BAEFE2F242D7A75.931F1A17D37B3BCFBF03675EF90B72B53F4A31EF&id=45fc0631ab79f01c" width="106" height="80"></a></div><div class="dsm"><img src="http://img.youtube.com/vi/RfwGMat58Bw/default.jpg" width="106" height="80"></div><div style="margin:5px 0px 5px 5px; padding:0px; clear: both;"">FILE NAME <input readonly="readonly" value="锵锵三人行2009年06月03日C:宋晓军--韩国底子黑让朝鲜理直气壮.mp4" style="width:200px;" onclick="this.select();" /> <INPUT type="button" value="copy" onmousedown='window.clipboardData.setData("text","锵锵三人行2009年06月03日C:宋晓军--韩国底子黑让朝鲜理直气壮.mp4")' style="text-decoration: none;"></div><div style="margin:5px 0px 5px 5px; padding:0px; clear: both;"><a href="http://v18.lscache1.googlevideo.com/videoplayback?ip=0.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag&itag=18&ipbits=0&sver=3&expire=1244113200&key=yt1&signature=24D52866B712849F7FABD9385BAEFE2F242D7A75.931F1A17D37B3BCFBF03675EF90B72B53F4A31EF&id=45fc0631ab79f01c" onClick="return NoRefLink(this)">VIDEO URL</a> <input readonly="readonly" value="http://v18.lscache1.googlevideo.com/videoplayback?ip=0.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag&itag=18&ipbits=0&sver=3&expire=1244113200&key=yt1&signature=24D52866B712849F7FABD9385BAEFE2F242D7A75.931F1A17D37B3BCFBF03675EF90B72B53F4A31EF&id=45fc0631ab79f01c" style="width:200px;" onclick="this.select();" /> <INPUT type="button" value="copy" onmousedown='window.clipboardData.setData("text","http://v18.lscache1.googlevideo.com/videoplayback?ip=0.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag&itag=18&ipbits=0&sver=3&expire=1244113200&key=yt1&signature=24D52866B712849F7FABD9385BAEFE2F242D7A75.931F1A17D37B3BCFBF03675EF90B72B53F4A31EF&id=45fc0631ab79f01c")' style="text-decoration: none;"></div><br style="clear: both;" >
+    </div>
+    <div style="float: right; margin-top:0px;">
+<!-- 125x125 -->
+<!-- /125x125 -->
+    </div>
+<br style="clear: both;" />
+
+      
+<div style="margin:40px 0 20px;padding:0;">
+
+</div>
+      
+  　</div>
+      <!--/mainContents-->
+    </div>
+
+    <div id="menuLeftContents">
+      <!--menuContents-->
+        <div class="menuBase">
+
+          <h3 class="menuHead">from</h3>
+          <div class="menuBody">
+      
+<div style="overflow: auto; height:300px;">
+<ul>
+<li><a href="http://www.2510.com/" target="_blank">2510.com</a></li>
+<li><a href="http://www.56.com/" target="_blank">56.com</a></li>
+<li><a href="http://6.cn/" target="_blank">6.cn</a></li>
+<!--
+<li><a href="http://www.acfun.cn/" target="_blank">AcFun.cn</a></li>
+-->
+<li><a href="http://vision.ameba.jp/index.do" target="_blank">AmebaVision</a></li>
+
+<!-- 
+<li><a href="http://blog.ask.jp/vcaster/" target="_blank">Ask Vcaster</a></li>
+-->
+<li><a href="http://blip.tv/" target="_blank">blip.tv</a></li>
+
+<!--
+<li><a href="http://clipcast.jp/" target="_blank">ClipCast</a></li>
+-->
+<li><a href="http://cliplife.jp/" target="_blank">ClipLife</a></li>
+<li><a href="http://crackle.com/" target="_blank">Crackle</a></li>
+
+<li><a href="http://www.dailymotion.com/" target="_blank">Dailymotion</a></li>
+<li><a href="http://tvpot.daum.net/" target="_blank">Daum</a></li>
+
+<li><a href="http://www.ebitv.jp/" target="_blank">EbiTV!</a></li>
+
+<li><a href="http://eyevio.jp/" target="_blank">eyeVio</a></li>
+<li><a href="http://eyespot.com/" target="_blank">eyespot</a></li>
+
+<li><a href="http://www.flurl.com/" target="_blank">FLURL</a></li>
+<li><a href="http://fileman.n1e.jp/" target="_blank">FILEMAN</a></li>
+<li><a href="http://www.funmansion.com/" target="_blank">FunMansion</a></li>
+
+<li><a href="http://video.google.com/" target="_blank">Google Video</a></li>
+<li><a href="http://www.gofish.com/" target="_blank">GoFish</a></li>
+<li><a href="http://www.gametrailers.com/" target="_blank">Gametrailers.com</a></li>
+
+<li><a href="http://www.guba.com/" target="_blank">GUBA</a></li>
+<li><a href="http://www.gofish.com/" target="_blank">GoFish</a></li>
+
+<li><a href="http://www.happy3g.com/index.jsp" target="_blank">happy3G.com</a></li>
+
+
+<li><a href="http://jimaku.in/" target="_blank">jimaku.in</a></li>
+
+<li><a href="http://www.ku6.com/" target="_blank">ku6.com</a></li>
+
+<li><a href="http://www.livevideo.com/" target="_blank">LiveVideo.com</a></li>
+
+<li><a href="http://www.lulu.tv/" target="_blank">lulu.tv</a></li>
+
+<li><a href="http://vids.myspace.com/" target="_blank">MySpaceTV</a></li>
+<li><a href="http://www.mojoflix.com/" target="_blank">MojoFlix</a></li>
+<li><a href="http://megavideo.com/" target="_blank">MEGAVIDEO</a></li>
+<li><a href="http://www.metacafe.com/" target="_blank">Metacafe</a></li>
+<li><a href="http://anime.mangaspot.com/" target="_blank">MangaSpot</a></li>
+<li><a href="http://www.mocovideo.jp/" target="_blank">MOCO Video</a></li>
+<li><a href="http://tv.mofile.com/" target="_blank">Mofile</a></li>
+
+<li><a href="http://www.mocasting.com/" target="_blank">moCasting.com</a></li>
+
+<li><a href="http://www.neotv.cn/" target="_blank">NeoTV.cn</a></li>
+<li><a href="http://nantokadoga.com/" target="_blank">nantokadoga.com</a></li>
+<li><a href="http://video.nifty.com/" target="_blank">@nifty Video Sharing</a></li>
+
+<li><a href="http://www.pandora.tv/" target="_blank">PANDORA.TV</a></li>
+<li><a href="http://photozou.jp/" target="_blank">PHOTOZOU.JP</a></li>
+
+<li><a href="http://raguun.jp/" target="_blank">RAGUUN</a></li>
+
+<li><a href="http://stage6.divx.com/" target="_blank">Stage6</a></li>
+<li><a href="http://sharkle.com/" target="_blank">Sharkle.com</a></li>
+<li><a href="http://subtitle.in/" target="_blank">subtitle.in</a></li>
+<li><a href="http://you.video.sina.com.cn/" target="_blank">sina</a></li>
+<li><a href="http://www.streetfire.net/" target="_blank">StreetFire.net</a></li>
+<li><a href="http://subtitle.in/" target="_blank">subtitle.in</a></li>
+
+<li><a href="http://www.tagstory.com/" target="_blank">TagStory</a></li>
+<li><a href="http://www.tudou.com/" target="_blank">Tudou.com</a></li>
+
+<li><a href="http://www.tm-tube.com/" target="_blank">TM-Tube</a></li>
+
+<li><a href="http://www.uume.com/" target="_blank">UUME.COM</a></li>
+
+<li><a href="http://www.veoh.com/" target="_blank">Veoh</a></li>
+<li><a href="http://www.vidiac.com/" target="_blank">Vidiac.com</a></li>
+<li><a href="http://www.vsocial.com/" target="_blank">VSOCIAL</a></li>
+
+<li><a href="http://www.watchme.tv/" target="_blank">watchme!tv</a></li>
+
+<li><a href="http://youtube.com" target="_blank">YouTube</a></li>
+
+<li><a href="http://www.youku.com/" target="_blank">youku.com</a></li>
+
+<!--
+<li><a href="http://www.zoome.jp/" target="_blank">zoome</a></li>
+-->
+
+<hr>
+<li>AdultSatellites</li>
+<li>AgeSage</li>
+<li>Badongo</li>
+<li>badjojo</li>
+<li>EskimoTube.com</li>
+<li>esnips</li>
+
+<li>GEXO.com</li>
+<li>Haporn.com</li>
+<li>Kaktuz.com</li>
+<li>LiveLeak.com</li>
+<li>MachoVideo.com</li>
+<li>MEGAROTIC</li>
+<li>MoroTube</li>
+<li>pornhost.com</li>
+<li>PornoTube</li>
+
+<li>PornHub.com</li>
+<li>PORNHOST.tv</li>
+<li>pornmovies.ws</li>
+<li>RedTube</li>
+<li>Shufuni</li>
+<li>SlutHead.com</li>
+<li>SLUTLOAD.COM</li>
+<li>Sexy Wives</li>
+<li>Sex Mummy</li>
+
+<li>Spankwire.com</li>
+<li>TimTube.com</li>
+<li>Tube8.com</li>
+<li>UnCut Video</li>
+<li>YouPorn.com</li>
+<li>YourFileHost</li>
+<li>yuvutu</li>
+<li>YouVidz</li>
+<li>YouPorn-X</li>
+
+<li>YouJizz.com</li>
+<li>Zootube365.com</li>
+<!--
+<li>XTube</li>
+-->
+<!--
+<li>Mgoon</li>
+<li>sicovideo.com</li>
+<li>VideoCodeZone</li>
+<li>Kornerson</li>
+ -->
+</ul>
+</div>
+          </div>
+        </div>
+      <!--/menuContents-->
+    </div>
+
+  <!--footContents-->
+  <div id="footContents">
+  <a href="http://www.dl-video.net/">日本語</a>　|　<a href="http://cn.dl-video.net/">簡体中文</a>
+  </div>
+  <!--/footContents-->
+</div>
+<!--/Contents-->
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+
+</script>
+<script type="text/javascript">
+_uacct = "UA-2569929-3";
+urchinTracker();
+</script>
+</body>
+</html>
